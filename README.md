@@ -3,7 +3,7 @@ This is a fork of "Programmer Art+ Resource Pack for Minecraft 1.20.x", At this 
 
 This pack is fully vanilla, no mods required. This is a Java Edition pack. Feel free to convert this to Bedrock Edition.
 
-Support the original (currently inactive, as far as I can tell):
+Support the original:
 * GitHub: https://github.com/Crackers0106/Programmer-Art-Plus
 * Planet Minecraft: https://www.planetminecraft.com/texture-pack/programmer-art
 * Discord: https://discord.gg/qxHgBHm
